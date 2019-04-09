@@ -1,0 +1,4 @@
+{
+  "host": "mongodb://localhost:27017/gantt_node",
+  "name": "gantt_node"
+}
